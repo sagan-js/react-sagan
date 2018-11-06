@@ -37,8 +37,8 @@
   "license": "ISC",
   "repository": "github:sagan-js/react-sagan",
   "peerDependencies": {
-    "sagan": "^1.0.0",
-    "react": "^0.14.0 || ^15.0.0-0 || ^16.0.0-0"
+    "react": "^0.14.0 || ^15.0.0-0 || ^16.0.0-0",
+    "sagan": "^1.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
@@ -96,8 +96,8 @@
     ]
   },
   "dependencies": {
-    "sagan": "^1.0.0",
     "prop-types": "^15.6.2",
-    "react": "^16.4.2"
+    "react": "^16.4.2",
+    "sagan": "^1.0.0"
   }
 }
